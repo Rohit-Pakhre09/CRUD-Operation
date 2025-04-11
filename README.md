@@ -39,7 +39,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>JavaScript (Vanilla)</li>
+  <li>JavaScript</li>
 </ul>
 
 <hr/>
