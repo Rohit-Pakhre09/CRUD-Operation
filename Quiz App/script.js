@@ -13,8 +13,8 @@ const question = [
     question:
       "Which tag is used to link an external CSS file to an HTML document?",
     answers: [
-      { text: "<script>", correct: true },
-      { text: "<link>", correct: false },
+      { text: "<script>", correct: false },
+      { text: "<link>", correct: true },
       { text: "<style>", correct: false },
       { text: "<css>", correct: false },
     ],
