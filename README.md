@@ -1,8 +1,10 @@
-<h1>📝 Advanced To-Do List Application</h1>
+<h1>📝 To-Do List Application</h1>
 
   <p>
     This is a modern and feature-rich <strong>To-Do List Application</strong> developed using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. It enables efficient task management with complete CRUD functionality — allowing users to create, read, update, and delete tasks in real time. The app is designed for optimal usability and a seamless user experience.
-  </p>
+  </p><br>
+
+  <img src="https://github.com/Rohit-Pakhre09/CRUD-Operation/blob/507ee021e0170b6cab23588566041a22bea95c79/Todo%20App/Assets/Todo%20App.png" width="100%">
 
   <h2>✨ Key Features</h2>
   <ul>
