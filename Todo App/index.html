@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+
+    <!-- Main CSS Link -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="https://img.icons8.com/?size=100&id=s4MzQ849Sdas&format=png&color=000000">
+
+    <!-- Font Link -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bytesized&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+
+<body>
+
+    <!-- Input Section -->
+    <div class="input-container">
+
+        <p id="title">Todo List</p>
+
+        <div class="input-section">
+            <input type="text" id="input" placeholder="Add your Task..." autocomplete="off">
+            <div id="btn" class="active">+</div>
+        </div>
+        <div id="guide-msg"></div>
+    </div>
+
+    <!-- Task Section -->
+    <div class="task-container">
+        <p id="task-title">No Plans created yet!</p>
+        <hr>
+
+        <div id="tasks"></div>
+    </div>
+
+    <!-- JavaScript Link -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
